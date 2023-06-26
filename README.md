@@ -1,5 +1,5 @@
 # CH29_PruebasGIT
-## Proyecto de prueba para GIT - CH29
+## Proyecto de prueba para GIT/GitHub.com - CH29
 
 ### Este proyecto está pensado para tener los primeros pasos en GIt y GitHub
 
